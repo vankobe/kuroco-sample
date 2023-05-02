@@ -1,4 +1,3 @@
-# kuroco-sample
 
 ## Build Setup
 
